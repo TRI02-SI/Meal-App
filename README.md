@@ -1,5 +1,7 @@
 # Meal-App
 
+# Live App: https://tri02-si.github.io/Meal-App/
+
 # PROBLEM STATEMENT:
 Create a meal app to store and search meals. Use ONLY vanilla javascript, no libraries or frameworks allowed for Javascript.
 
